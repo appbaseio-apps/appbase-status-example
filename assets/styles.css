@@ -1,0 +1,138 @@
+.redC {
+	/*background-color: #f44336;
+	color: white; */
+	color: #f44336;;
+	margin: 1px;
+}
+
+.greenC {
+	/*background-color: #4CAF50;
+	color: white; */
+	color: #4CAF50;
+	margin: 1px;
+}
+
+.row {
+	margin-bottom: 0px;
+}
+
+.row .col {
+	padding: 0.25rem;
+}
+
+.formstyle {
+	float: left;
+	width: 40%;
+}
+
+.smallblock {
+	width: 5%;
+	float: left;
+}
+
+.rightalign {
+	text-align: right;
+}
+
+.margint01 {
+	margin: 1%;
+}
+
+.margin05 {
+	margin: 0.5%;
+}
+
+.block {
+	margin-left: 7%;
+	margin-top: 1%;
+}
+
+input.col.s6.textinput {
+	background: #eaeaea;
+    border: 0;
+    border-radius: 3px;
+    height: 2.5rem;
+}
+
+input.col.s8.textinput {
+	background: #eaeaea;
+    border: 0;
+    border-radius: 3px;
+    height: 2.5rem;
+}
+
+.collapsible {
+	
+	overflow-y: scroll;
+    height: 75vh;
+    /*padding: 2px;*/
+}
+
+.row .col.s1 {
+	padding-left: 3%;
+}
+
+.row .col.s2 {
+	text-align: right;
+}
+
+h3 {
+	text-align: center;
+}
+
+input.col.s8.textinput:focus {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #3F9ED5;
+}
+
+.btn {
+	margin-left: 7px;
+	background-color: #3F9ED5;
+	height: 2.5rem;
+	box-shadow: none;
+}
+
+.progress {
+	background-color: #bbdefb;
+}
+
+.progress .indeterminate {
+	background-color: #3F9ED5;
+}
+
+.btn:focus {
+	background-color: #3F9ED5;
+}
+
+.btn:hover {
+	background-color: #3F9ED5;
+}
+
+.btn:active {
+  background-color: #3F9ED5;
+}
+
+.btn:all {
+  background-color: #3F9ED5;
+}
+
+.my-collapsible-header {
+    display: block;
+
+    cursor: pointer;
+    min-height: 3rem;
+    line-height: 3rem;
+    padding: 0 1rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.my-collapsible-body {
+    padding: 15px 0 15px 50px;
+    background-color: #fafafa;
+    border-bottom: 1px solid #ddd;
+}
+
+.Collapsible__contentOuter {
+	margin: 0 2px 0 2px;
+}

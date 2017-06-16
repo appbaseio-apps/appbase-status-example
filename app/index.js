@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
+// import ResultAll from "./ResultAll.js"
+// import ResultEmbed from "./ResultEmbed.js"
 import {ResultEmbed, ResultAll} from "temp-status";
 //import 'temp-status/assets/style.css';
 

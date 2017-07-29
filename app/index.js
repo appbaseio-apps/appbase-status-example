@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ReactDOM from "react-dom";
 // import ResultAll from "./ResultAll.js"
 // import ResultEmbed from "./ResultEmbed.js"
-import {ResultEmbed, ResultAll} from "temp-status";
+import {ResultEmbed, ResultAll} from "@appbaseio/appbase-status";
 //import 'temp-status/assets/style.css';
 
 class App extends Component {
